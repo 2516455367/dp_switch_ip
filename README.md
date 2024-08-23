@@ -1,5 +1,8 @@
 # dp_switch_ip
-drissionpage 使用插件切换ip
+drissionpage 使用插件切换ip 可在不关闭浏览器情况下切换成功
+支持 http https socks4 socks5 无认证模式和认证模式
+
+仅供娱乐 请勿模仿
 
 
 解压插件
